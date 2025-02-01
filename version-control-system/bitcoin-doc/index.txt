@@ -12,13 +12,7 @@ Una de las características distintivas de Bitcoin es su oferta limitada a 21 mi
 metales preciosos como el oro, podría contribuir a su valor a largo plazo. Además, Bitcoin ofrece ventajas como la rapidez y 
 eficiencia en las transacciones, menores comisiones en comparación con los sistemas tradicionales y un mayor control sobre los 
 propios fondos.
-Sin embargo, Bitcoin también presenta desafíos y riesgos. Su volatilidad, es decir, la fluctuación de su precio, puede ser 
-considerable, lo que lo convierte en una inversión de alto riesgo. La complejidad técnica de su funcionamiento puede ser un 
-obstáculo para algunos usuarios, y la seguridad de las billeteras digitales donde se almacenan los bitcoins es crucial para 
-evitar pérdidas por hackeos o robos.
-A pesar de estos desafíos, Bitcoin ha ganado una creciente aceptación como medio de pago y reserva de valor. Empresas de 
-renombre mundial como Microsoft, Starbucks y PayPal han comenzado a aceptar Bitcoin como forma de pago, y su uso se ha extendido a 
-diversos sectores como el comercio electrónico, los viajes y la tecnología.
+
 
 Bitcoin ha revolucionado la forma en que entendemos el dinero y las transacciones financieras. Su tecnología subyacente, la 
 blockchain, tiene el potencial de transformar industrias más allá de las finanzas, como la logística, la votación electrónica 
