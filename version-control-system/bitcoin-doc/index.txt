@@ -14,6 +14,8 @@ eficiencia en las transacciones, menores comisiones en comparación con los sist
 propios fondos.
 
 
+alerta agregada de ejemplo 3
+
 Bitcoin ha revolucionado la forma en que entendemos el dinero y las transacciones financieras. Su tecnología subyacente, la 
 blockchain, tiene el potencial de transformar industrias más allá de las finanzas, como la logística, la votación electrónica 
 y la gestión de identidades digitales. Si bien Bitcoin aún enfrenta desafíos y riesgos, su impacto en el mundo financiero es 
