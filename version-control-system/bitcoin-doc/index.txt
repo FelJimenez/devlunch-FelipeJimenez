@@ -1,0 +1,38 @@
+Que es bitcoin?
+
+Bitcoin es una criptomoneda descentralizada, lo que significa que no está controlada por un banco central o gobierno.
+Fue la primera criptomoneda creada y sigue siendo la más conocida.
+
+Bitcoin es una moneda digital que opera sin la necesidad de un banco central o gobierno que la regule. Su naturaleza descentralizada 
+se basa en una red peer-to-peer (de igual a igual) donde las transacciones se verifican y registran en un libro contable público y 
+distribuido llamado "blockchain" (cadena de bloques). Esta tecnología innovadora garantiza la transparencia y seguridad de las 
+transacciones, ya que cada bloque de la cadena contiene un registro de las operaciones realizadas y está enlazado criptográficamente 
+al bloque anterior, formando una cadena inmutable.
+Una de las características distintivas de Bitcoin es su oferta limitada a 21 millones de unidades. Esta escasez, similar a la de los 
+metales preciosos como el oro, podría contribuir a su valor a largo plazo. Además, Bitcoin ofrece ventajas como la rapidez y 
+eficiencia en las transacciones, menores comisiones en comparación con los sistemas tradicionales y un mayor control sobre los 
+propios fondos.
+
+Sin embargo, Bitcoin también presenta desafíos y riesgos. Su volatilidad, es decir, la fluctuación de su precio, puede ser 
+considerable, lo que lo convierte en una inversión de alto riesgo. La complejidad técnica de su funcionamiento puede ser un 
+obstáculo para algunos usuarios, y la seguridad de las billeteras digitales donde se almacenan los bitcoins es crucial para 
+evitar pérdidas por hackeos o robos. 2
+A pesar de estos desafíos, Bitcoin ha ganado una creciente aceptación como medio de pago y reserva de valor. Empresas de 
+renombre mundial como Microsoft, Starbucks y PayPal han comenzado a aceptar Bitcoin como forma de pago, y su uso se ha extendido a 
+diversos sectores como el comercio electrónico, los viajes y la tecnología.
+
+
+alerta agregada de ejemplo 3
+
+Bitcoin ha revolucionado la forma en que entendemos el dinero y las transacciones financieras. Su tecnología subyacente, la 
+blockchain, tiene el potencial de transformar industrias más allá de las finanzas, como la logística, la votación electrónica 
+y la gestión de identidades digitales. Si bien Bitcoin aún enfrenta desafíos y riesgos, su impacto en el mundo financiero es 
+innegable.
+Es importante destacar que Bitcoin no es la única criptomoneda existente. El mercado de las criptomonedas es dinámico y diverso, 
+con miles de opciones disponibles. Sin embargo, Bitcoin sigue siendo la criptomoneda más conocida y utilizada, y su legado como 
+la primera de su clase es incuestionable.
+En el futuro, Bitcoin podría desempeñar un papel aún más importante en la economía global. A medida que la tecnología blockchain 
+madure y se superen los desafíos actuales, es posible que veamos una mayor adopción de Bitcoin y otras criptomonedas en el comercio, 
+la inversión y las remesas internacionales.
+En definitiva, Bitcoin es mucho más que una moneda digital. Es un símbolo de innovación y cambio en el mundo de las finanzas, y su 
+futuro es un tema de debate y especulación apasionante.
