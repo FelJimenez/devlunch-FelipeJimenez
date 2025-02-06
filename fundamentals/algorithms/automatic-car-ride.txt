@@ -1,0 +1,11 @@
+Solucion al problema del carro:
+
+1. Buscar las llaves
+2. Dirigirse al carro
+3. abrir la puerta del carro con la llave.
+4. sentarme dentro del carro.
+5. colocarme el cinturon.
+6. colocar la llave para encender el carro.
+7. Quitar el freno de mano
+8. Pasar a reversa o acelerar dependiendo del caso
+9. Disfrutar el viaje.
